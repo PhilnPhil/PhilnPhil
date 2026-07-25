@@ -8,5 +8,5 @@
 - Operating systems: Linux, MacOs, Windows
 - Programming languages: Python, Javascript, Java, Go, Rust, Ruby, PHP
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
-- Web technologies: React, Angular, Vue.js, Express, Djano, Rails
+- Web technologies: React, Angular, Vue.js, Express, Django, Rails
 - Development tools: Git, Docker, Kubernetes, Jenkins, VS Code
