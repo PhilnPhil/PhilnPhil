@@ -4,7 +4,7 @@ Phil Fajilago
 - LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
 
 Technology Stack 
-- Operating systems: Linux, MacOs, Windows
+- Operating systems: Linux, MacOS, Windows
 - Programming languages: Python, Java
 - Development tools: Git, VS Code
 
