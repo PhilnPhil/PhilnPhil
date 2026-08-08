@@ -5,7 +5,7 @@ Phil Fajilago
 
 Technology Stack 
 - Operating systems: Linux, MacOs, Windows
-- Programming languages: Python, Java,
+- Programming languages: Python, Java
 - Development tools: Git, VS Code
 
 Certificates
