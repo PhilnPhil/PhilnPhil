@@ -1,8 +1,8 @@
-# Hi, I'm Phil Fajilago 👋
+Phil Fajilago
 
 # 📫 Contact
-- 📧 Email: fajilago.philramoel@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
+- Email: fajilago.philramoel@gmail.com
+- LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
 
 ## 🎯 Technology Stack 
 - Operating systems: Linux, MacOs, Windows
