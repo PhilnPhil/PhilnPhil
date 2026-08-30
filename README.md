@@ -1,5 +1,4 @@
 Phil Fajilago
-LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
 
 Technology Stack 
 - Operating systems: Linux, MacOS, Windows
@@ -13,3 +12,5 @@ Certificates
 - GitHub: GH100/500/300
 - Microsoft 365: MS102/700, MD102, SC100/300/401, AB100, AI103
 - Civil Service Eligibility - Professional
+
+https://www.linkedin.com/in/phil-fajilago-944219163/
