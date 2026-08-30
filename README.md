@@ -1,7 +1,5 @@
 Phil Fajilago
-
-- Email: fajilago.philramoel@gmail.com
-- LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
+LinkedIn: https://www.linkedin.com/in/phil-fajilago-944219163/
 
 Technology Stack 
 - Operating systems: Linux, MacOS, Windows
